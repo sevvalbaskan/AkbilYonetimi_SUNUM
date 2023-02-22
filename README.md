@@ -38,6 +38,13 @@ Talimat İşlemleri sayfasına giderek az önce kaydetiğimiz Akbil no seçerek 
 
 ![image](https://user-images.githubusercontent.com/73429501/220546588-9fc58e99-bf37-4ed5-98fd-874632f39fd0.png)
 
+Aşağıda yazılan kodların bir kısmını görebilirsiniz.
+![image](https://user-images.githubusercontent.com/73429501/220549761-93d1d4c8-7402-4d65-b72f-9827ce521e27.png)
+
+![image](https://user-images.githubusercontent.com/73429501/220549916-6ed2afe4-c0ab-4d2d-8157-c6f0c9bc1f2a.png)
+
+![image](https://user-images.githubusercontent.com/73429501/220550071-800fec4d-7036-4b73-84c7-22ad3cd44711.png)
+
 
 
 
