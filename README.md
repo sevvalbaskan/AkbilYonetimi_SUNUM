@@ -21,6 +21,7 @@ Projeyi 2 katman (DAL,UIForm) olarak yazılmıştır.
 
 Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır.
 Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir.
+
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
 
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
