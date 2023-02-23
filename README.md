@@ -5,22 +5,22 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
-Proje .NET C# Windows Form yapısıyla yazılmıştır.
+* Proje .NET C# Windows Form yapısıyla yazılmıştır.
 
-Proje Visual Studio 2019 IDE'sinde yazılmıştır.
+* Proje Visual Studio 2019 IDE'sinde yazılmıştır.
 
-Projede bulunan kayıtlar Microsoft Sql Server Management Studio 2019 veritabanı kullanarak kaydedilmiştir.
+* Projede bulunan kayıtlar Microsoft Sql Server Management Studio 2019 veritabanı kullanarak kaydedilmiştir.
 
-Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır.
+* Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır.
 
-Projede üye olurken şifreler MD5 ile veri tabanına kaydedilmiştir.
+* Projede üye olurken şifreler MD5 ile veri tabanına kaydedilmiştir.
 
-Beni hatırla butonu ile giriş yapan son kullanıcının bilgileri kayıt olmaktadır. Tekrar girerken kolayca sisteme girebilir.
+* Beni hatırla butonu ile giriş yapan son kullanıcının bilgileri kayıt olmaktadır. Tekrar girerken kolayca sisteme girebilir.
 
-Projeyi 2 katman (DAL,UIForm) olarak yazılmıştır.
+* Projeyi 2 katman (DAL,UIForm) olarak yazılmıştır.
 
-Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır.
-Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir.
+*Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır.
+* Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir.
 
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
 
