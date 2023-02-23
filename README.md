@@ -6,14 +6,23 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 PROJE HAKKINDA TEKNİK BİLGİLER:
 
 Proje .NET C# Windows Form yapısıyla yazılmıştır.
+
 Proje Visual Studio 2019 IDE'sinde yazılmıştır.
+
 Projede bulunan kayıtlar Microsoft Sql Server Management Studio 2019 veritabanı kullanarak kaydedilmiştir.
+
 Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır.
+
 Projede üye olurken şifreler MD5 ile veri tabanına kaydedilmiştir.
+
 Beni hatırla butonu ile giriş yapan son kullanıcının bilgileri kayıt olmaktadır. Tekrar girerken kolayca sisteme girebilir.
+
 Projeyi 2 katman (DAL,UIForm) olarak yazılmıştır.
-Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır. Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir.
+
+Projede Akbil ekleme, talimat ekleme, ayarlar ve ana ekran sayfası bulunmaktadır.
+Üye sisteme giriş yaptıktan aşağıdaki adımları izleyerek akbile talimat ekleyebilir.
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
+
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 Giriş yaptığımızda bizi karşılayan sayfamız;
 ![image](https://user-images.githubusercontent.com/73429501/220537634-8af2eea0-b36d-4d1b-a816-eacb22e9a965.png)
